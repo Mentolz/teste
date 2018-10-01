@@ -1,1 +1,1 @@
-print ("oi oi iii")
+print ("xau xau")
